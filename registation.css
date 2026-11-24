@@ -1,0 +1,50 @@
+
+
+body{
+    background-color:pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.con{
+width: 300px;
+margin: auto;
+   align-items: center;
+text-align: center;
+margin-top: 100px;
+  box-shadow: 10px 10px 10px ;
+  
+  background-color: rgb(234, 90, 218);
+   text-align: center;
+   padding: 25px;
+   border-radius: 20px;
+
+   
+   
+}
+
+input{
+    margin-top: 10px;
+
+}
+h1{
+    color: orange;
+}
+
+button{
+    padding: 10px;
+    width: 200px
+ 
+}
+.btn button{
+background-color:rgb(61, 61, 239);
+border: black;
+border-radius: 20px;
+}
+.btn button:hover{
+    background-color: red;
+    color: white;
+}
+label{
+    color: ;
+}
